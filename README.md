@@ -5,7 +5,7 @@ Installation
 
 Clone this repository or download the source code file:
 
-git clone https://github.com/yourusername/dart-quiz-app.git
+git clone https://github.com/UpekshaAmandi/Command---line-quiz-app
 
 Navigate to the project directory:
 
