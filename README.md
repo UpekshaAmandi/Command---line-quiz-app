@@ -10,10 +10,11 @@ git clone https://github.com/UpekshaAmandi/Command---line-quiz-app
 Navigate to the project directory:
 
 cd dart-quiz-app
+
 Running in Different Environments
 
-Windows (PowerShell/Command Prompt)
+Windows (PowerShell/Command Prompt) -
 dart quiz_app.dart
 
-macOS/Linux
+macOS/Linux -
 dart quiz_app.dart
